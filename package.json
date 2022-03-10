@@ -1,0 +1,17 @@
+{
+  "name": "sequelizeorm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Jesi",
+  "license": "MIT",
+  "dependencies": {
+    "mariadb": "^3.0.0",
+    "sequelize": "^6.17.0"
+  }
+}
